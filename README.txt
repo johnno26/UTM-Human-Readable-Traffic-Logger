@@ -1,18 +1,18 @@
 # UTM-Human-Readable-Traffic-Logger
 Human Readable Log Traffic Interpreter for Astaro/Sophos UTM
 
-Author:   NeedlesXL
-Report bugs to <bug-gzip@needles.nl>
+Author:   Johnno26
+Report bugs to <bug-gzip@vanderpijl.com>
 
 Change log:
-Version:  1.00 24-01-2016  Needles   Initial release
-Version:  1.01 01-03-2016  Needles   Resolved IP match issue
-Version:  1.02 03-03-2016  Needles   Added historic log view feature
-Version:  1.03 05-03-2016  Needles   Added GEOIP Country Block logging
-Version:  1.04 02-04-2016  Needles   Added Destination name resolution
-Version:  1.05 17-04-2016  Needles   Added Exclusion option for known/trusted traffic
-Version:  1.06 24-04-2016  Needles   Added DNS Caching option
-Version:  1.08 24-04-2016  Needles   Added daemon for permanent DNS Caching (optional)
+Version:  1.00 24-01-2016  Johnno26   Initial release
+Version:  1.01 01-03-2016  Johnno26   Resolved IP match issue
+Version:  1.02 03-03-2016  Johnno26   Added historic log view feature
+Version:  1.03 05-03-2016  Johnno26   Added GEOIP Country Block logging
+Version:  1.04 02-04-2016  Johnno26   Added Destination name resolution
+Version:  1.05 17-04-2016  Johnno26   Added Exclusion option for known/trusted traffic
+Version:  1.06 24-04-2016  Johnno26   Added DNS Caching option
+Version:  1.08 24-04-2016  Johnno26   Added daemon for permanent DNS Caching (optional)
 
 Dependencies:
 External files (auto generated in current dir if not present):
